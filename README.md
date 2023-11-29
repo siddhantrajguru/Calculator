@@ -1,2 +1,2 @@
 # Calculator
-simple calculator
+Task 3: simple calculator
